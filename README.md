@@ -41,42 +41,42 @@ A beautiful, automated cryptocurrency price tracker that displays live prices wi
 
 <tr>
 <td><strong>Bitcoin</strong></td>
-<td align="right"><code>$115,796</code></td>
-<td align="right" style="color: #ff0000"><strong>-0.47%</strong></td>
-<td align="center">📉</td>
-<td align="center">⚡ STABLE</td>
+<td align="right"><code>$115,680</code></td>
+<td align="right" style="color: #00ff00"><strong>+0.06%</strong></td>
+<td align="center">📈</td>
+<td align="center">✅ UP</td>
 </tr>
 
 <tr>
 <td><strong>Ethereum</strong></td>
-<td align="right"><code>$4,288</code></td>
-<td align="right" style="color: #ff0000"><strong>-2.45%</strong></td>
+<td align="right"><code>$4,276</code></td>
+<td align="right" style="color: #ff0000"><strong>-1.30%</strong></td>
 <td align="center">📉</td>
-<td align="center">❄️ COLD</td>
+<td align="center">⚡ STABLE</td>
 </tr>
 
 <tr>
 <td><strong>Litecoin</strong></td>
-<td align="right"><code>$116.87</code></td>
-<td align="right" style="color: #ff0000"><strong>-1.95%</strong></td>
-<td align="center">📉</td>
-<td align="center">⚡ STABLE</td>
+<td align="right"><code>$116.42</code></td>
+<td align="right" style="color: #00ff00"><strong>+0.12%</strong></td>
+<td align="center">📈</td>
+<td align="center">✅ UP</td>
 </tr>
 
 <tr>
 <td><strong>Solana</strong></td>
-<td align="right"><code>$182.91</code></td>
-<td align="right" style="color: #ff0000"><strong>-2.45%</strong></td>
+<td align="right"><code>$181.76</code></td>
+<td align="right" style="color: #ff0000"><strong>-1.43%</strong></td>
 <td align="center">📉</td>
-<td align="center">❄️ COLD</td>
+<td align="center">⚡ STABLE</td>
 </tr>
 
 <tr>
 <td><strong>Cardano</strong></td>
-<td align="right"><code>$0.9246</code></td>
-<td align="right" style="color: #ff0000"><strong>-1.69%</strong></td>
-<td align="center">📉</td>
-<td align="center">⚡ STABLE</td>
+<td align="right"><code>$0.9225</code></td>
+<td align="right" style="color: #00ff00"><strong>+0.11%</strong></td>
+<td align="center">📈</td>
+<td align="center">✅ UP</td>
 </tr>
 
 </tbody>
@@ -84,8 +84,8 @@ A beautiful, automated cryptocurrency price tracker that displays live prices wi
 
 ---
 
-**📊 Market Summary:** 5/5 coins tracked | **📈 Avg 24h Change:** -1.80%  
-**🕐 Last Updated:** 2025-08-19 02:06 UTC | **🔄 Auto-updates every ~5 minutes**
+**📊 Market Summary:** 5/5 coins tracked | **📈 Avg 24h Change:** -0.49%  
+**🕐 Last Updated:** 2025-08-19 03:16 UTC | **🔄 Auto-updates every ~5 minutes**
 
 *Data provided by [CoinGecko API](https://www.coingecko.com/en/api) 🦎*
 
