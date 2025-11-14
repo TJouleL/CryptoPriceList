@@ -41,39 +41,39 @@ A beautiful, automated cryptocurrency price tracker that displays live prices wi
 
 <tr>
 <td><strong>Bitcoin</strong></td>
-<td align="right"><code>$96,704</code></td>
-<td align="right" style="color: #ff0000"><strong>-6.18%</strong></td>
+<td align="right"><code>$96,562</code></td>
+<td align="right" style="color: #ff0000"><strong>-6.15%</strong></td>
 <td align="center">💥</td>
 <td align="center">❄️ COLD</td>
 </tr>
 
 <tr>
 <td><strong>Ethereum</strong></td>
-<td align="right"><code>$3,168</code></td>
-<td align="right" style="color: #ff0000"><strong>-9.78%</strong></td>
+<td align="right"><code>$3,161</code></td>
+<td align="right" style="color: #ff0000"><strong>-9.72%</strong></td>
 <td align="center">💥</td>
 <td align="center">❄️ COLD</td>
 </tr>
 
 <tr>
 <td><strong>Litecoin</strong></td>
-<td align="right"><code>$96.08</code></td>
-<td align="right" style="color: #ff0000"><strong>-3.48%</strong></td>
+<td align="right"><code>$96.06</code></td>
+<td align="right" style="color: #ff0000"><strong>-3.67%</strong></td>
 <td align="center">📉</td>
 <td align="center">❄️ COLD</td>
 </tr>
 
 <tr>
 <td><strong>Solana</strong></td>
-<td align="right"><code>$141.53</code></td>
-<td align="right" style="color: #ff0000"><strong>-9.14%</strong></td>
+<td align="right"><code>$141.11</code></td>
+<td align="right" style="color: #ff0000"><strong>-9.62%</strong></td>
 <td align="center">💥</td>
 <td align="center">❄️ COLD</td>
 </tr>
 
 <tr>
 <td><strong>Cardano</strong></td>
-<td align="right"><code>$0.5169</code></td>
+<td align="right"><code>$0.5160</code></td>
 <td align="right" style="color: #ff0000"><strong>-8.77%</strong></td>
 <td align="center">💥</td>
 <td align="center">❄️ COLD</td>
@@ -84,8 +84,8 @@ A beautiful, automated cryptocurrency price tracker that displays live prices wi
 
 ---
 
-**📊 Market Summary:** 5/5 coins tracked | **📈 Avg 24h Change:** -7.47%  
-**🕐 Last Updated:** 2025-11-14 11:10 UTC | **🔄 Auto-updates every ~5 minutes**
+**📊 Market Summary:** 5/5 coins tracked | **📈 Avg 24h Change:** -7.59%  
+**🕐 Last Updated:** 2025-11-14 11:28 UTC | **🔄 Auto-updates every ~5 minutes**
 
 *Data provided by [CoinGecko API](https://www.coingecko.com/en/api) 🦎*
 
