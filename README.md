@@ -41,16 +41,16 @@ A beautiful, automated cryptocurrency price tracker that displays live prices wi
 
 <tr>
 <td><strong>Bitcoin</strong></td>
-<td align="right"><code>$89,647</code></td>
-<td align="right" style="color: #ff0000"><strong>-2.98%</strong></td>
+<td align="right"><code>$89,627</code></td>
+<td align="right" style="color: #ff0000"><strong>-2.83%</strong></td>
 <td align="center">📉</td>
 <td align="center">❄️ COLD</td>
 </tr>
 
 <tr>
 <td><strong>Ethereum</strong></td>
-<td align="right"><code>$3,031</code></td>
-<td align="right" style="color: #ff0000"><strong>-4.50%</strong></td>
+<td align="right"><code>$3,029</code></td>
+<td align="right" style="color: #ff0000"><strong>-4.57%</strong></td>
 <td align="center">📉</td>
 <td align="center">❄️ COLD</td>
 </tr>
@@ -65,16 +65,16 @@ A beautiful, automated cryptocurrency price tracker that displays live prices wi
 
 <tr>
 <td><strong>Solana</strong></td>
-<td align="right"><code>$132.94</code></td>
-<td align="right" style="color: #ff0000"><strong>-5.03%</strong></td>
-<td align="center">💥</td>
+<td align="right"><code>$132.87</code></td>
+<td align="right" style="color: #ff0000"><strong>-4.91%</strong></td>
+<td align="center">📉</td>
 <td align="center">❄️ COLD</td>
 </tr>
 
 <tr>
 <td><strong>Cardano</strong></td>
-<td align="right"><code>$0.4119</code></td>
-<td align="right" style="color: #ff0000"><strong>-6.38%</strong></td>
+<td align="right"><code>$0.4120</code></td>
+<td align="right" style="color: #ff0000"><strong>-6.73%</strong></td>
 <td align="center">💥</td>
 <td align="center">❄️ COLD</td>
 </tr>
@@ -84,8 +84,8 @@ A beautiful, automated cryptocurrency price tracker that displays live prices wi
 
 ---
 
-**📊 Market Summary:** 5/5 coins tracked | **📈 Avg 24h Change:** -4.60%  
-**🕐 Last Updated:** 2025-12-06 07:44 UTC | **🔄 Auto-updates every ~5 minutes**
+**📊 Market Summary:** 5/5 coins tracked | **📈 Avg 24h Change:** -4.63%  
+**🕐 Last Updated:** 2025-12-06 07:57 UTC | **🔄 Auto-updates every ~5 minutes**
 
 *Data provided by [CoinGecko API](https://www.coingecko.com/en/api) 🦎*
 
